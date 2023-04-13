@@ -12,6 +12,6 @@
     }
   ],
   "env": {
-    "https://google.com": ""
+    "TARGET_URL": "https://www.google.com/"
   }
 }
