@@ -3,4 +3,4 @@ A proxy designed with simplicity and function in mind.
 # Deploying
 Currently this is only deployable on Vercel. More deployment options will be added soon.
 # Disclaimer
-This is currently in Alpha, so use at your own risk!
+This is currently in Alpha, so use at your own risk! There is also no warranty with this project.
